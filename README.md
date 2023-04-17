@@ -2,7 +2,7 @@
 
 <img src="profile.png">
 
-<br>
+
 
 <h2>Sobre mi</h2>
 
@@ -12,7 +12,7 @@ Chico Español de 19 años 😋
 
 
 
-<h2>Habilidades</h2>
+
 
 <h2>¿Donde desarrollo?</h2>
 
